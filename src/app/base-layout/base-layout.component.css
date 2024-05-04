@@ -1,0 +1,15 @@
+/*
+  Title: base-layout.component.scss
+  Author: Zadkiel Rodriguez Alvarado
+  Date: 4/27/2024
+  Description: Base Layout styling
+*/
+.logo {
+  margin-top: 5px;
+}
+
+.main-container{
+  padding-top: 25px;
+  width: 80%;
+  margin: 0 auto;
+}
